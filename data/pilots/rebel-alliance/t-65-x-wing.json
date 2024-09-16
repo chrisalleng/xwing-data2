@@ -346,6 +346,7 @@
       "limited": 1,
       "cost": 5,
       "xws": "lukeskywalker-battleofyavin",
+      "force": { "value": 2, "recovers": 1, "side": ["light"] },
       "ability": "After you are declared as the defender during an attack, you may recover 1 [Force].",
       "force": { "value": 2, "recovers": 1, "side": ["light"] },
       "shipAbility": {
